@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @sequencejeg
+- 🎓 Graduated from the University of Puerto Rico w/ a degree in Comunications with a focus in Audio & Video
+- 📸 Worked for Puerto Rico's Channel 6 and still do some freelance photography from time to time
 - 👀 I’m interested in learning how to code, photography and data analysis
 - 🌱 I’m currently learning coding @ Holberton Coding School! 
 - 💞️ I’m looking to collaborate on future projects once i become a fully developed programmer
