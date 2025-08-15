@@ -5,8 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/sequencejeg/osticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/sequencejeg/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/sequencejeg/ticket-lifecycle)
-
+  
 - <b>Microsoft Azure</b>
   - [Configuring A Virtual Machine and remote access ](https://github.com/sequencejeg/configure-vm)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sequencejeg/azure-network-protocols)
