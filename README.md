@@ -1,14 +1,18 @@
-<h1>Hi, I'm Jeremy, an <a href="https://www.linkedin.com/in/jeremy-etienne-518790279/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jeremy, an <a href="https://www.linkedin.com/in/jeremy-etienne-518790279/">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/sequencejeg/osticket-prereq)
+  - [osTicket: Post-Installation Configuration](https://github.com/sequencejeg/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/sequencejeg/ticket-lifecycle)
+
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring A Virtual Machine and remote access ](https://github.com/sequencejeg/configure-vm)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sequencejeg/azure-network-protocols)
+
+- <b>Active Directory</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sequencejeg/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
