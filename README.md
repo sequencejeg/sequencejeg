@@ -14,7 +14,7 @@
 - Active Directory (User Management, Group Policies, Permissions)
 - Microsoft Azure (VMs, Networking, Security Groups)
 - Microsoft 365 Admin (Exchange, Teams, SharePoint)
-- Remote Support Tools (RDP, TeamViewer, AnyDesk)
+- Remote Support Tools (RDP, TeamViewer, Windows App)
 - Networking (DNS, DHCP, VPN, TCP/IP)
 - Hardware & Software Troubleshooting (PCs, Printers, Peripherals)
 - Customer Service & Technical Documentation
@@ -44,7 +44,6 @@
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 ![osTicket](https://img.shields.io/badge/osTicket-FF6600?style=for-the-badge&logo=helpdesk&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-2E7D32?style=for-the-badge&logo=servicenow&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-0078D7?style=for-the-badge&logo=remotedesktop&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-00FF00?style=for-the-badge&logo=cisco&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-444444?style=for-the-badge&logo=windows-terminal&logoColor=white)
