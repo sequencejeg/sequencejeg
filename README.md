@@ -10,26 +10,19 @@
 
 ```bash
 > skills --list
-- Help Desk Support & Ticketing Systems
-- Active Directory, DNS, DHCP
-- Microsoft Azure Administration
-- Networking & Protocol Analysis
-- Hardware / Software Troubleshooting
+- Help Desk Support & Ticketing Systems (osTicket, ServiceNow, Jira)
+- Active Directory (User Management, Group Policies, Permissions)
+- Microsoft Azure (VMs, Networking, Security Groups)
+- Microsoft 365 Admin (Exchange, Teams, SharePoint)
+- Remote Support Tools (RDP, TeamViewer, AnyDesk)
+- Networking (DNS, DHCP, VPN, TCP/IP)
+- Hardware & Software Troubleshooting (PCs, Printers, Peripherals)
+- Customer Service & Technical Documentation
 ```
 
 ---
 
-## 🛠 Tech Arsenal
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0089D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![osTicket](https://img.shields.io/badge/osTicket-FF6600?style=for-the-badge&logo=helpdesk&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00FF00?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-<details>
-<summary>🖥 Information Technology Projects</summary>
+## 🖥 Information Technology Projects
 
 **🎫 osTicket (Help Desk Ticketing System)**  
 - [Prerequisites and Installation](https://github.com/sequencejeg/osticket-prereq)  
@@ -42,13 +35,19 @@
 **📡 Active Directory**  
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sequencejeg/configure-ad)  
 
-</details>
-
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sequencejeg&show_icons=true&theme=chartreuse-dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sequencejeg&layout=compact&theme=chartreuse-dark)
+## 🛠 Tech Arsenal
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0089D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![osTicket](https://img.shields.io/badge/osTicket-FF6600?style=for-the-badge&logo=helpdesk&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-2E7D32?style=for-the-badge&logo=servicenow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-0078D7?style=for-the-badge&logo=remotedesktop&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00FF00?style=for-the-badge&logo=cisco&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-444444?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
